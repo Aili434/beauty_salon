@@ -80,7 +80,7 @@ const SALONS: Salon[] = [
     access: '表参道駅A4出口より徒歩2分',
     couponTitle: '【季節限定】フラワーアート×ラメグラデーションジェル',
     price: '¥7,400',
-    image: '/images/nail.jpg',
+    image: '/img/beauty_salon/1_.jpg',
     keywords: ['ネイル', 'ジェルネイル', 'フラワーアート', '表参道'],
   },
   {
@@ -93,7 +93,7 @@ const SALONS: Salon[] = [
     access: '外苑前駅より徒歩4分',
     couponTitle: '【極上の癒し】アロマオイル全身トリートメント90分',
     price: '¥12,500',
-    image: '/images/spa.jpg',
+    image: '/img/beauty_salon/6_.jpg',
     keywords: ['スパ', 'リラク', 'アロマ', 'トリートメント', '青山'],
   },
   {
@@ -106,7 +106,7 @@ const SALONS: Salon[] = [
     access: '銀座駅C8出口より徒歩2分',
     couponTitle: '【束感・美カール】パリジェンヌまつ毛パーマ＋高濃度ケア',
     price: '¥5,900',
-    image: '/images/eyelash.jpg',
+    image: '/img/beauty_salon/3_.jpg',
     keywords: ['まつ毛パーマ', 'まつ毛', 'パリジェンヌ', '銀座'],
   },
   {
@@ -119,7 +119,7 @@ const SALONS: Salon[] = [
     access: '渋谷駅新南口より徒歩4分',
     couponTitle: '【首肩こり・骨盤矯正】オーダーメイド全身整体60分',
     price: '¥6,600',
-    image: '/images/seitai.jpg',
+    image: '/img/beauty_salon/2_.jpg',
     keywords: ['整体', 'マッサージ', '骨盤矯正', '肩こり', '渋谷'],
   },
   {
@@ -132,7 +132,7 @@ const SALONS: Salon[] = [
     access: '新宿三丁目駅より徒歩3分',
     couponTitle: '【リフトアップ＆自律神経ケア】耳つぼジュエリー10粒コース',
     price: '¥4,500',
-    image: '/images/ear_jewelry.jpg',
+    image: '/img/beauty_salon/4_.jpg',
     keywords: ['耳つぼジュエリー', '耳つぼ', 'ピアス', 'リフトアップ', '新宿'],
   },
   {
@@ -145,7 +145,7 @@ const SALONS: Salon[] = [
     access: '中目黒駅より徒歩3分',
     couponTitle: '【深層ケア】全身経絡鍼治療＋自律神経調整60分',
     price: '¥8,200',
-    image: '/images/acupuncture.jpg',
+    image: '/img/beauty_salon/5_.jpg',
     keywords: ['鍼治療', '鍼灸院', '美容鍼', '肩こり', '中目黒'],
   },
 ];
